@@ -51,7 +51,6 @@ const Index = () => {
 
   return (
     <div className="min-h-screen bg-white font-open-sans">
-      {/* Header */}
       <header className="border-b border-gold/20">
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
           <div className="flex items-center space-x-2">
@@ -67,7 +66,6 @@ const Index = () => {
         </div>
       </header>
 
-      {/* Hero Section */}
       <section className="relative py-20 bg-gradient-to-br from-black via-black/95 to-black/90">
         <div 
           className="absolute inset-0 bg-cover bg-center opacity-20"
@@ -103,7 +101,6 @@ const Index = () => {
         </div>
       </section>
 
-      {/* Services Section */}
       <section className="py-20 bg-gray-50">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16 animate-slide-up">
@@ -149,7 +146,6 @@ const Index = () => {
         </div>
       </section>
 
-      {/* Testimonials Section */  
       <section className="py-20 bg-black">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
@@ -206,7 +202,6 @@ const Index = () => {
         </div>
       </section>
 
-      {/* Footer */}
       <footer className="bg-black text-white py-12">
         <div className="container mx-auto px-4">
           <div className="grid md:grid-cols-3 gap-8">
