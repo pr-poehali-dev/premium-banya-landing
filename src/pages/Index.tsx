@@ -188,7 +188,7 @@ const Index = () => {
         </div>
       </section>
 
-      {/* CTA Section */}
+{/* CTA Section */}
       <section className="py-20 bg-gradient-to-r from-gold to-gold/90">
         <div className="container mx-auto px-4 text-center">
           <h3 className="text-4xl font-montserrat font-bold text-black mb-6">
